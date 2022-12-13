@@ -1,0 +1,60 @@
+.About {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: #e2e2e2;
+}
+
+.a_left {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 100%;
+}
+
+.a_right {
+    flex: 1;
+}
+
+.a_card {
+    width: 60%;
+    height: 70vh;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.a_card.bg {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: #333;
+}
+
+.a_img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.a_title {
+    font-size: 30px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.a-sub {
+    margin: 20px 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.a-desc {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 20px;
+}

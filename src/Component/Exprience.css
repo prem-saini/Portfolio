@@ -1,0 +1,41 @@
+.Exprience {
+    height: 75vh;
+
+}
+
+.exp_text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.exprience {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+.exp_text i {
+    background-color: purple;
+    color: white;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.experience_type h2 {
+    color: blue;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.experience_type span {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.experience_type p {
+    font-size: 20px;
+    font-weight: 500;
+}

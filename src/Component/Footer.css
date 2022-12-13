@@ -1,0 +1,66 @@
+.Footer {
+    background-color: #e2e2e2;
+    padding: 40px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+
+}
+
+.contact {
+    padding: 40px;
+}
+
+.contact h1 {
+    color: purple;
+
+}
+
+.contact h2 {
+    color: purple;
+}
+
+.contact h3 {
+    color: purple;
+}
+
+
+
+input {
+
+
+    padding: 15px;
+    border-radius: 15px;
+    margin: 10px;
+    border: none;
+}
+
+.in {
+    width: 250px;
+}
+
+textarea {
+    width: 250px;
+    margin: 10px;
+
+
+    border-radius: 15px;
+    /* margin-left: 525px; */
+}
+
+/* .upper {
+    margin-left: 520px;
+} */
+
+.btn {
+    width: 100px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: purple;
+    color: white;
+    /* margin-left: 520px; */
+
+
+
+}
